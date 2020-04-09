@@ -1,0 +1,1 @@
+This is a Expense_Journal is a web app which keeps the track of income and expense of the user. It evaluates the total amount as well as the percentage expense of the user.  
